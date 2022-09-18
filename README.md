@@ -13,3 +13,5 @@ Father support on the following topics, and more, can be found at Helpful_Tips f
 *How sensitive are the results to the parameter values (spoiler, they are not)
 *How to estimate the calcium decay rate
 *The calcium baseline 
+
+An implementation in Python is also available , by Amon Kahavari https://github.com/iamkhav/PyWFDeconv 
